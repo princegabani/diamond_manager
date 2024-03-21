@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone_number": "123-456-7890",
+        "dob": "1980-01-15",
+        "address": "123 Main St"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "phone_number": "987-654-3210",
+        "dob": "1995-05-20",
+        "address": "456 Elm St"
+    }
+]
